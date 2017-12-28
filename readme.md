@@ -2,7 +2,7 @@
 
 ## DIA 01 - Aquecimento
 
-Escrever uma função que retorna o comprimento da maior palavra em uma string.
+ * Escrever uma função que retorna o comprimento da maior palavra em uma string.
 
 ##### Exemplo:
 
