@@ -15,7 +15,7 @@ deverá retornar 5.
 ### Observações
  * 1 Exercício por dia.
  * Antes de procurar a solução na internet, tentar escrever o próprio código.
- * Ler a documentação do Ruby (Principalmente funções).
+ * Ler a documentação.
  * O Exercício passará por uma bateria de testes.
  * Os 3 primeiros dias serão exclusivamente Ruby, o restante será focado no desenvolvimento de uma aplicação Ruby on Rails.
  * Importante: Have Fun!
